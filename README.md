@@ -1,8 +1,13 @@
-# Hello, I'm Arthur 👋
-## Student, Programer, and Brazilian!!
-## 👾 I intend to get more programming experience even before entering college
+# Oi, I'm Paulo
+**Student, Programmer, and Brazilian.**
 
-<br />
+*Python | JavaScript | P5.js | C | Web Development*
+
+I'm an undergraduate student at **[Instituto Militar de Engenharia](https://www.ime.eb.mil.br/)** (IME), passionate about programming since I was a kid. I find almost every area of development interesting, so I try to build diverse personal projects aiming to create a comprehensive portfolio. 
+
+I'm also a member of a cybersecurity initiative at college, where I'm learning not only how to build systems, algorithms, and applications, but how to make them robust and secure. 
+
+Continuously learning...
 
 ### Languages and Tools:
 
@@ -31,5 +36,3 @@
 <br />
 <br />
 <hr/>
-
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-arthur&show_icons=true&theme=prussian)
